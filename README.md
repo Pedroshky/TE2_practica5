@@ -1,3 +1,16 @@
+![1](https://user-images.githubusercontent.com/66241934/83451779-d4f29880-a457-11ea-9f44-ff15facbf2c9.jpg)
+![2](https://user-images.githubusercontent.com/66241934/83451782-d58b2f00-a457-11ea-8915-6c6fa6fb7ad5.jpg)
+![3](https://user-images.githubusercontent.com/66241934/83451784-d58b2f00-a457-11ea-9bf3-a747f4dbc598.jpg)
+![4](https://user-images.githubusercontent.com/66241934/83451787-d623c580-a457-11ea-800a-f64e7eb9d231.jpg)
+![5](https://user-images.githubusercontent.com/66241934/83451788-d623c580-a457-11ea-8d85-fe7a924d406b.jpg)
+![6](https://user-images.githubusercontent.com/66241934/83451789-d6bc5c00-a457-11ea-8407-7b0b5ad36e60.jpg)
+![7](https://user-images.githubusercontent.com/66241934/83451790-d6bc5c00-a457-11ea-85be-b0e5d75272ec.jpg)
+
+[bd_almacen.txt](https://github.com/Pedroshky/TE2_practica5/files/4713275/bd_almacen.txt)
+
+
+
+
 # TE2_practica5
 DAO
 -- phpMyAdmin SQL Dump
